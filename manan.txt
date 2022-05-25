@@ -1,0 +1,5 @@
+{
+	"ip":"Shahmanan28.aternos.me"
+	"port": "22798",
+	"name": "SMP"
+}
